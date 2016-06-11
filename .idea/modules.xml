@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sqq_SwitchButton.iml" filepath="$PROJECT_DIR$/Sqq_SwitchButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqqswitchbutton/sqqswitchbutton.iml" filepath="$PROJECT_DIR$/sqqswitchbutton/sqqswitchbutton.iml" />
+    </modules>
+  </component>
+</project>
